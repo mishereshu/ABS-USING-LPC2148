@@ -7,5 +7,5 @@ To design and model a controlling interface that receives information from wheel
 The ABS system was designed to be integrated into a vehicle's existing brake system, using the LPC2148 microcontroller as the central electronic control unit (ECU). Speed sensors were placed on each wheel, and the information was transmitted to the microcontroller for processing. The microcontroller used this information to determine the slip percentage of each tire and decide whether or not to enable the ABS system.
 
 You would need the following tools to run this program:
-Proteus
-KEIL uVision
+Proteus,
+KEIL uVision.
