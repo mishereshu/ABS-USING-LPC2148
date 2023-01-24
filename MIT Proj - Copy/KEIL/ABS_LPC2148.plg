@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\mithi\OneDrive\Desktop\MIT Proj\KEIL\ABS_LPC2148.uvproj
+Project File Date:  01/08/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling ABSLPC2148.c...
+ABSLPC2148.c(1): error:  #20: identifier "LDR" is undefined
+ABSLPC2148.c(1): error:  #40: expected an identifier
+ABSLPC2148.c(1): error:  #20: identifier "load" is undefined
+ABSLPC2148.c(1): error:  #65: expected a ";"
+ABSLPC2148.c(2): error:  #20: identifier "load" is undefined
+ABSLPC2148.c(2): error:  #65: expected a ";"
+ABSLPC2148.c(3): error:  #20: identifier "load" is undefined
+ABSLPC2148.c(3): error:  #65: expected a ";"
+ABSLPC2148.c(4): error:  #10: "#" not expected here
+ABSLPC2148.c(4): error:  #20: identifier "increment" is undefined
+ABSLPC2148.c(4): error:  #65: expected a ";"
+ABSLPC2148.c(5): error:  #10: "#" not expected here
+ABSLPC2148.c(5): error:  #20: identifier "increment" is undefined
+ABSLPC2148.c(5): error:  #65: expected a ";"
+ABSLPC2148.c(6): error:  #10: "#" not expected here
+ABSLPC2148.c(6): error:  #20: identifier "initialize" is undefined
+ABSLPC2148.c(6): error:  #65: expected a ";"
+ABSLPC2148.c(9): error:  #10: "#" not expected here
+ABSLPC2148.c(9): warning:  #12-D: parsing restarts here after previous syntax error
+ABSLPC2148.c(9): error:  #20: identifier "load" is undefined
+ABSLPC2148.c(9): error:  #65: expected a ";"
+ABSLPC2148.c(10): error:  #10: "#" not expected here
+ABSLPC2148.c(10): error:  #20: identifier "store" is undefined
+ABSLPC2148.c(10): error:  #65: expected a ";"
+ABSLPC2148.c(11): error:  #10: "#" not expected here
+ABSLPC2148.c(11): error:  #20: identifier "increment" is undefined
+ABSLPC2148.c(12): error:  #65: expected a ";"
+ABSLPC2148.c(12): error:  #20: identifier "compare" is undefined
+ABSLPC2148.c(12): error:  #65: expected a ";"
+ABSLPC2148.c(13): error:  #169: expected a declaration
+Target not created

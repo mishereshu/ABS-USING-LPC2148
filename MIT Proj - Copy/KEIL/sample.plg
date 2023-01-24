@@ -1,0 +1,184 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\mithi\OneDrive\Desktop\MIT Proj\KEIL\sample.uvproj
+Project File Date:  01/16/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1105E: Area directive missing
+test.asm(1): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(8): error: A1167E: Invalid line start 
+test.asm(14): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode CODE , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode CODE , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode CODE , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode CODE , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode CODE , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(16): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(17): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(17): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(17): warning: A1313W: Missing END directive at end of file
+Target not created
+Build target 'Target 1'
+assembling test.asm...
+test.asm(1): error: A1163E: Unknown opcode TEST,CODE,READONLY , expecting opcode or Macro
+test.asm(3): error: A1105E: Area directive missing
+test.asm(3): warning: A1088W: Faking declaration of area AREA |$$$$$$$|
+test.asm(10): error: A1167E: Invalid line start 
+test.asm(17): warning: A1313W: Missing END directive at end of file
+Target not created

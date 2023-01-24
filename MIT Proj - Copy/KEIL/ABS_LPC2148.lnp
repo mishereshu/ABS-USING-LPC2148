@@ -1,0 +1,4 @@
+--device DARMP "startup.o" "abslpc2148.o" --strict --scatter "ABS_LPC2148.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\ABS_LPC2148.map" -o "ABS_LPC2148.axf"

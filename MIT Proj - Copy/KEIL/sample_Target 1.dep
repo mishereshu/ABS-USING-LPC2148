@@ -1,0 +1,2 @@
+Dependencies for Project 'sample', Target 'Target 1': (DO NOT MODIFY !)
+F (.\test.asm)(0x63C5173A)(--device DARMP --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC\Philips" --list "test.lst" --xref -o "test.o")
