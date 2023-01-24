@@ -1,6 +1,6 @@
 # ABS-USING-LPC2148
 
-*DISCLAIMER: This project was a university-assigned group project done by me and 3 other collogues, their names have been redacted to maintain their anonymity, I do not claim to have done this entire project by myself nor insinuate some ulterior motive by redacting their names.
+*DISCLAIMER: This project was a university-assigned group project done by me and 3 other colleagues, their names have been redacted to maintain their anonymity, I do not claim to have done this entire project by myself nor insinuate some ulterior motive by redacting their names.
 
 To design and model a controlling interface that receives information from wheel speed sensors and limits the braking force according to the requirements.
 
